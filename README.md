@@ -1,7 +1,7 @@
 
 <a href=#><img src="snake.svg"></a>
 <br>
-<h1 align="center"> <strong> 😎THE PIG(DICE GAME)😎 </strong> </h1> 
+<h1 align="center"> <strong> 😎THE CLASSIC DICE GAME)😎 </strong> </h1> 
 <h1 align="center"><a href="https://thowfeeksalim.github.io/pig-dice-game">Live Demo</a></h1>
 <p align="center">
 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 D𝚎𝚖𝚘 G𝚊𝚖𝚎🎮 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻 , 𝙲𝚂𝚂 , 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃  ( 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘 𝐏𝐑𝐎𝐉𝐄𝐂𝐓🧒)
@@ -13,13 +13,11 @@ Built with JavaScript.
 ## GAME RULES:
 
 - The game has 2 players, playing in rounds.
-- In each turn, a player rolls a dice as many times as he whishes. 
-Each result get added to his ROUND score.
-- BUT, if the player rolls a 1, all his ROUND score gets lost. 
+- In each turn, a player rolls a dice only 1 times
+Each result get added to his  Score.
+- BUT, if the player rolls a 6, He got 1 more chance. 
 After that, it's the next player's turn.
-- The player can choose to 'Hold', which means that his ROUND score 
-gets added to his GLOBAL score. After that, it's the next player's turn.
-- The first player to reach 100 points on GLOBAL score wins the game.
+- The first player to reach 100 points on Score wins the game.
 
 <!-- ![screenshot](screenshot.png) -->
 
