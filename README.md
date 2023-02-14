@@ -38,7 +38,8 @@ I built this repo using:
 
 - GitHub: [@Thowfeeksalim](https://github.com/thowfeeksalim)
 - Twitter: [@Thowfeeksalim06](https://twitter.com/thowfeeksalim6) 
-- LinkedIn: [Thowfeeksalim](https://www.linkedin.com/in/thowfeek-salim-294760211) 
+- LinkedIn: [@Thowfeeksalim](https://www.linkedin.com/in/thowfeek-salim-294760211) 
+- Instagram: [@Thowfeek_salim_](https://instagram.com/thowfeek_salim_?igshid=ZDdkNTZiNTM=)
 
 ## Getting Started
 
